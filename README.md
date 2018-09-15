@@ -1,4 +1,3 @@
 # Arduino_SourceCode
 
-Sample source code for Arduino
-Sample source code for NodeMCU
+Sample source code for Arduino or NodeMCU
