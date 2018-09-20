@@ -16,8 +16,10 @@ void loop() {
     char bt = btSerial.read();
     // Turn on/off
     if(bt == 'p') {
+      //tv전원
       irsend.sendNEC(0x20DF10EF, 32);
       delay(500);
+      //셋탑전원
       irsend.sendNEC(0x122430CF, 32);
     }
     // volume up/down
