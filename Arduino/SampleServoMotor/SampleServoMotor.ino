@@ -13,7 +13,7 @@ void setup() {
 } 
 
 void loop() { 
-  // 0~180도
+  //0~180도
   for(int angle = 0; angle < 180; angle++) { 
     servo.write(angle); 
     delay(5); 
