@@ -2,6 +2,8 @@
 // https://blog.naver.com/ljy9378/221357120126
 // Sample source cod for Arduino
 
+// 서보모터 사용
+
 #include <Servo.h> 
 Servo servo;
 int servoPin = 9;
