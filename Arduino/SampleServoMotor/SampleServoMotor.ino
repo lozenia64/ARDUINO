@@ -18,7 +18,7 @@ void loop() {
     servo.write(angle); 
     delay(5); 
   } 
-  // now scan back from 180 to 0 degrees
+  //180~0도
   for(int angle = 180; angle > 0; angle--) { 
     servo.write(angle); 
     delay(5); 
