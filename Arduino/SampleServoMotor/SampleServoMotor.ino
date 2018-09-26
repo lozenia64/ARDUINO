@@ -3,6 +3,7 @@
 // Sample source cod for Arduino
 
 // 서보모터 사용
+// 서보모터 디지털 9번핀 사용
 
 #include <Servo.h> 
 Servo servo;
