@@ -9,11 +9,11 @@
 Servo servo;
 int servoPin = 9;
 void setup() { 
-    servo.attach(servoPin); 
+  servo.attach(servoPin); 
 } 
 
 void loop() { 
-  // scan from 0 to 180 degrees
+  // 0~180도
   for(int angle = 0; angle < 180; angle++) { 
     servo.write(angle); 
     delay(5); 
