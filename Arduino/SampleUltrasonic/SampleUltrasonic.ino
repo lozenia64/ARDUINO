@@ -1,5 +1,8 @@
-int echoPin = 12;
-int trigPin = 13;
+// lozenia64
+// https://blog.naver.com/ljy9378/221357120126
+// Sample source cod for Arduino
+
+int echoPin = 12, trigPin = 13;
 
 void setup() {
   Serial.begin(9600);
