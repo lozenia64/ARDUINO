@@ -3,6 +3,7 @@
 // Sample source cod for Arduino
 
 // 초음파센서 사용
+// 초음파센서 디지털 12,13번 핀 사용
 
 int echoPin = 12, trigPin = 13;
 
