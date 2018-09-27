@@ -2,6 +2,8 @@
 // https://blog.naver.com/ljy9378/221357120126
 // Sample source cod for Arduino
 
+// 라킹터치센서 사용
+
 void setup() {
   pinMode(3, INPUT);
   pinMode(13, OUTPUT);
