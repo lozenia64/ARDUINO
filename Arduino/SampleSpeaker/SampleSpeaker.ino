@@ -22,7 +22,8 @@ void setup() {}
 
 void loop() {
   for (int i=0; i<8; i++) {
-    tone(PIN_PIEZO, melody[i], 200);  // 7번 핀에 0.2초 동안 특정 주파수의 소리가 발생하도록 전압을 인가함
+    //7번 핀에 0.2초 동안 특정 주파수의 소리 발생
+    tone(PIN_PIEZO, melody[i], 200);
     delay(300);
   }
   delay(5000);
