@@ -11,6 +11,7 @@ void setup() {
 }
 
 void loop() {
+  //디지털 3번핀에서 입력 받은 센서 값을 저장할 변수 cur
   int cur = digitalRead(3);
   digitalWrite(13,cur);
 }
