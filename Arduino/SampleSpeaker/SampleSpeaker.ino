@@ -11,6 +11,8 @@
 #define B 494 // 시 
 #define CC 523 // 도
 
+// 피에조 부저 사용
+
 int PIN_PIEZO = 7;
 int melody[] = { C, D, E, F, G, A, B, CC };
 
