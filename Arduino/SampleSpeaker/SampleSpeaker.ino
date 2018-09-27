@@ -15,6 +15,7 @@
 // 피에조 부저 디지털 7번핀 사용
 
 int PIN_PIEZO = 7;
+// 8개 음 출력
 int melody[] = { C, D, E, F, G, A, B, CC };
 
 void setup() {}
