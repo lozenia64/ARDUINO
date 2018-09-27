@@ -2,6 +2,8 @@
 // https://blog.naver.com/ljy9378/221357120126
 // Sample source cod for Arduino
 
+// 초음파센서 사용
+
 int echoPin = 12, trigPin = 13;
 
 void setup() {
