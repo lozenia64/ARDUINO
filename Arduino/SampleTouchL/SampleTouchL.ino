@@ -3,6 +3,7 @@
 // Sample source cod for Arduino
 
 // 라킹터치센서 사용
+// 라킹터치센서 디지털 3번핀 사용
 
 void setup() {
   pinMode(3, INPUT);
