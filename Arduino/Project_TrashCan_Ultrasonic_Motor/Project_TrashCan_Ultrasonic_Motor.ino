@@ -3,8 +3,8 @@
 // Sample source cod for Arduino
 
 // 서보모터, 초음파센서 사용
-// 서보모터 디지털 10, 11번 핀 사용
-// 초음파센서 디지털 9번 핀 사용
+// 서보모터 디지털 9번 핀 사용
+// 초음파센서 디지털 10, 11번 핀 사용
 
 #include <Servo.h> 
 Servo servo; 
