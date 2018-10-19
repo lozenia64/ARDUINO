@@ -1,5 +1,5 @@
 // lozenia64
-// https://blog.naver.com/ljy9378/221357120126
+// https://blog.naver.com/ljy9378/221363773917
 // Sample source cod for Arduino
 
 // 서보모터, 초음파센서 사용
