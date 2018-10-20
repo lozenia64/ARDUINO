@@ -1,5 +1,5 @@
 // lozenia64
-// https://blog.naver.com/ljy9378/221357120126
+// https://blog.naver.com/ljy9378/221355591869
 // Sample source cod for Arduino
 
 // 블루투스 모듈 사용
