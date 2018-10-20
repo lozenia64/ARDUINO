@@ -1,5 +1,5 @@
 // lozenia64
-// https://blog.naver.com/ljy9378/221357120126
+// https://blog.naver.com/ljy9378/221360054559
 // Sample source cod for Arduino
 
 #include <SoftwareSerial.h>
