@@ -1,5 +1,5 @@
 // lozenia64
-// https://blog.naver.com/ljy9378/221357120126
+// https://blog.naver.com/ljy9378/221356432032
 // Sample source cod for Arduino
 
 // 디지털슬라이드 모듈 사용
