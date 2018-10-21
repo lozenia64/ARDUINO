@@ -1,5 +1,5 @@
 // lozenia64
-// https://blog.naver.com/ljy9378/221357120126
+// https://blog.naver.com/ljy9378/221356529467
 // Sample source cod for Arduino
 
 // 조도센서 사용
