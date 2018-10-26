@@ -1,5 +1,5 @@
 // lozenia64
-// https://blog.naver.com/ljy9378/221357120126
+// https://blog.naver.com/ljy9378/221357422958
 // Sample source cod for Arduino
 
 // 움직임감지 센서(PIR 센서)
@@ -26,4 +26,3 @@ void loop() {
     delay(2000);
   }
 }
-
