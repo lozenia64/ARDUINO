@@ -1,5 +1,5 @@
 // lozenia64
-// https://blog.naver.com/ljy9378/221357120126
+// https://blog.naver.com/ljy9378/221357422958
 // Sample source cod for Arduino
 
 // 움직임 감지센서 사용
@@ -17,4 +17,3 @@ void loop() {
   if (cur == HIGH) digitalWrite(13,HIGH);
   else digitalWrite(13,LOW);
 }
-
