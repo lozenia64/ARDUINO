@@ -1,5 +1,5 @@
 // lozenia64
-// https://blog.naver.com/ljy9378/221357120126
+// https://blog.naver.com/ljy9378/221363515919
 // Sample source cod for Arduino
 
 // 서보모터 사용
@@ -24,4 +24,3 @@ void loop() {
     delay(5); 
   } 
 } 
-
