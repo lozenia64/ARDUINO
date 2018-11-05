@@ -1,5 +1,5 @@
 // lozenia64
-// https://blog.naver.com/ljy9378/221357120126
+// https://blog.naver.com/ljy9378/221359138846
 // Sample source cod for Arduino
 
 #define C 262 // 도 262Hz 
@@ -28,4 +28,3 @@ void loop() {
   }
   delay(5000);
  }
-
