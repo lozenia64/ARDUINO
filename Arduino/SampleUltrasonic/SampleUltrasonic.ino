@@ -1,5 +1,5 @@
 // lozenia64
-// https://blog.naver.com/ljy9378/221357120126
+// https://blog.naver.com/ljy9378/221363529751
 // Sample source cod for Arduino
 
 // 초음파센서 사용
@@ -28,4 +28,3 @@ void loop() {
   Serial.println("cm");
   delay(500);
 }
-
