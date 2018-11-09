@@ -1,5 +1,5 @@
 // lozenia64
-// https://blog.naver.com/ljy9378/221357120126
+// https://blog.naver.com/ljy9378/221357136031
 // Sample source cod for Arduino
 
 // 라킹터치센서 사용
@@ -15,4 +15,3 @@ void loop() {
   int cur = digitalRead(3);
   digitalWrite(13,cur);
 }
-
